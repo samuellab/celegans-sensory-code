@@ -1,0 +1,24 @@
+{
+"sample_animal_1": {
+    "id": "B_001",
+    "shape_x": 256,
+    "shape_y": 128,
+    "shape_z": 21,
+    "shape_c": 2,
+    "shape_t": 3,
+    "pixel_size_x": 2,
+    "pixel_size_y": 2,
+    "pixel_size_z": 8
+    },
+"sample_animal_2": {
+    "id": "B_002",
+    "shape_x": 256,
+    "shape_y": 128,
+    "shape_z": 21,
+    "shape_c": 2,
+    "shape_t": 3,
+    "pixel_size_x": 2,
+    "pixel_size_y": 2,
+    "pixel_size_z": 8
+    }
+}
