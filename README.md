@@ -3,4 +3,5 @@ Written by Albert Lin & Vivek Venkatachalam
 
 From Lin et al., 2022: "Functional imaging and quantification of multi-neuronal olfactory responses in C. elegans"
 
-Code for annotating, tracking, and extracting calcium activity from C. elegans chemosensory neurons. Refer to the "Readme.docx" file for further details.
+Code for annotating, tracking, and extracting calcium activity from C. elegans chemosensory neurons, built on software developed for Venkatchalam et al., 2016.
+Refer to the "Readme.docx" file for further details.
